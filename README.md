@@ -35,7 +35,7 @@ cdemu load 0 /Your Folder/YourRabbidsGoHomeFiles.iso
 ## Running the Lutris installer
 There is a few different ways you can start the installer these are listed below. You only need to do one of them.
 
-- From the Lutris website
+- (Soon) From the Lutris website
 1. Select the Install button on the Rabbids Go Home page for the DVD version
 - From the Lutris app
 1. Select the Lutris source on the right
