@@ -1,6 +1,6 @@
 ![Game Cover](/Cover.jpg)
 # Play Rabbids Go Home on Linux
-C'est un guide qui permet d'installer la version windows de [Rabbids Go Home]( plus facilement sur linux 
+This is a guide that makes it easier to install the Windows version of Rabbids Go Home on Linux lol. 
 # Reqirements
 - [Lutris](https://lutris.net/downloads/)
 - [CDEmu](https://cdemu.sourceforge.io/)
