@@ -5,7 +5,7 @@ C'est un guide qui permet d'installer la version windows de [Rabbids Go Home]( p
 - [Lutris](https://lutris.net/downloads/)
 - [CDEmu](https://cdemu.sourceforge.io/)
 - Rabbids Go Home as disc or iso
-- Vulkan capable GPU, and Driver for DXVK Support
+- Vulkan capable GPU, and [Driver](https://github.com/doitsujin/dxvk/wiki/Driver-support) for DXVK Support
 # Installation
 
 ## Install Lutris and Wine dependencies
